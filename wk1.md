@@ -84,6 +84,10 @@ Note: Graphs of the Maps-Graphs-Trees triad
 > The other part is about finding that signal in the noise of historical data in the first place. We'll talk more about that on Wednesday.
 
 
+## Visualization & Exploration are _in tension_
+![Micki Kaufman](http://i.imgur.com/JYCKRfA.png)
+
+
 
 ## What you will learn in this course:
 1. Identify and define the limitations of useful sources of historical data online
