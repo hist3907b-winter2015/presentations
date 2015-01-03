@@ -170,7 +170,8 @@ In person I hide in PA406 and you can find me probably on Mondays or Wednesdays.
 2. Read through the two articles.
 3. Fasten your seatbelts!
 
-This course will not be easy. On the other hand, 50% of the grade is up for grads just for doing the homework and being a decent classmate. 
+This course will not be easy. On the other hand, 50% of the grade is up for grabs just for doing the homework and being a decent classmate. 
+
 Digital work requires community - we learn and build together. It takes a lot of practice, experimentation, and [productive failures](http://electricarchaeology.ca/2012/05/18/how-i-lost-the-crowd-a-tale-of-sorrow-and-hope/).
 
 
