@@ -18,15 +18,15 @@ _Keeping in mind that there's more to dataviz than the visual..._
 
 
 
-## Another cunning slide
+## Assessment
 
 Content 2.1
 
 
 
-## Some more
+## Final Project
 
-Content 3.1
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png">
 
 
 ## Some more
