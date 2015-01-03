@@ -88,6 +88,9 @@ Note: Graphs of the Maps-Graphs-Trees triad
 ![Micki Kaufman](http://i.imgur.com/JYCKRfA.png)
 
 
+![Micki Kaufman](http://i.imgur.com/1y1x1FX.png)
+
+
 
 ## What you will learn in this course:
 1. Identify and define the limitations of useful sources of historical data online
