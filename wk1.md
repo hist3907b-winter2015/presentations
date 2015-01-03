@@ -1,5 +1,5 @@
 # HIST3907B
-Data Mining & Visualization for Historians
+[Data Mining & Visualization for Historians](https://github.com/hist3907b-winter2015)
 
 
 
@@ -124,7 +124,7 @@ The modules in the course are built around the progressive steps of working with
 
 
 ## Due dates
-(also available in the [repo](https://github.com/hist3907b-winter2015/syllabus/blob/master/table%20of%20due%20dates.md)
+also available in the [repo](https://github.com/hist3907b-winter2015/syllabus/blob/master/table%20of%20due%20dates.md)
 ###Exercises:
 + Principles of open access research: January 14th
 + Finding Data: January 28th
