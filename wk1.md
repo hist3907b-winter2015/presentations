@@ -24,7 +24,7 @@ Note: Rationale behind this course.
 
 
 
-## A Potted & Woefully Incomplete History of Visualization
+## Some Examples from the History of Visualization
 
 _Keeping in mind that there's more to dataviz than the visual..._
 
