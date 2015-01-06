@@ -115,6 +115,7 @@ See Appleford, Simon, and Jennifer Guiliano. 'Building Your First Work Plan.' De
 The modules correspond to the various steps in working with data. Build into your plan time to learn the tool you think you're most likely going to use.
 
 
+
 # Colonial Newspaper Database
 https://github.com/hist3907b-winter2015/Colonial-Newspaper-Database
 
