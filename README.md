@@ -9,4 +9,4 @@ Here's [how to host reveal.js on github](https://cynng.wordpress.com/2014/10/08/
 
 [Wk 1 Session 1 - Introduction](http://hist3907b-winter2015.github.io/presentations/wk1.html)
 
-[Wk 1 Session 2 - Final Project](http://hist3907b-winter2015.github.io/presentations/finalproject.html/)
+[Wk 1 Session 2 - Final Project](http://hist3907b-winter2015.github.io/presentations/finalproject.html#/)
