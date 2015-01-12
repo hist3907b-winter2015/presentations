@@ -88,6 +88,10 @@ Note: Key difference: reproducibility not necessarily a driving motive.
 + What about Caulfield?
 
 
+##Bosman & Kramer
+[101 innovations in scholarly communication - on figshare](http://figshare.com/viewers/doc/1863601?full_screen=1&article_id=1286826#done)
+
+
 ## Easy for you to say, Graham. 
 ### What are the risks, rewards for students?
 + ?
