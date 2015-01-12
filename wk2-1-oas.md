@@ -60,7 +60,7 @@ Note: Key difference: reproducibility not necessarily a driving motive.
 
 + It'd keep people honest
 
-[link](https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/)
+[C. Black, The Individual Research Archive: Hacking the “Papers of You” May 28, 2010](https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/)
 
 
 ## Things historians fear
