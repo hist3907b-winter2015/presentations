@@ -30,3 +30,5 @@ Module 2 Session 3 - In the Discovery Centre in the Library. APIs; wget; collabo
 [Module 3 Session 1 - Wrangling Data](http://hist3907b-winter2015.github.io/presentations/md3-01.html#/)
 
 [Module 3 Session 2 - How'd they do that?](http://miriamposner.com/blog/how-did-they-make-that-the-video/) Today's session can be done in the comfort of your own home, at a coffee shop, or where'er you'd like. I would like you to watch Miriams Posner's discussion of 'reverse engineering' digital humanities projects, with an eye to the problems of wrangling the data. What projects strike you as 'hey, I'd like to do that!' ? What kind of 'wrangling' do these projects do? What do you want to know more about? Write your responses as notes in your open notebook, and use the 'issues' button on this page to alert us to your observations.
+
+<iframe src="https://archive.org/embed/howdidtheymakethat&poster=http://archive.org/images/map.png" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
